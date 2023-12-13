@@ -16,7 +16,9 @@ Fecha:
 
 
 Lev Manovich, en su libro "El software toma el mando", aborda cómo, una vez que la computadora se convierte en un cómodo hogar para un gran número de medios simulados y nuevos, se vuelve lógico esperar que se empiecen a crear híbridos (Manovich, 2013, p.140). De esta forma, propone un análisis detallado de este fenómeno a través del concepto de hibridación de los medios.
+
 La hibridación se manifiesta como un proceso de remediación, en el que se fusionan técnicas y lenguajes previos y diferenciados, ya sean digitales o tradicionales (texto, video, audio o imágen). Estos elementos se entrelazan y transforman a través del software, dando lugar a nuevas formas en las cuales se experimentan todos los elementos en conjunto. 
+
 En este trabajo exploraré la hibridación de los medios, usando como ejemplos los juegos de mesa que emplean la realidad aumentada y las películas interactivas.
 
 
