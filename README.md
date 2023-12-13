@@ -15,7 +15,10 @@ Fecha:
 ## Planteamiento
 
 
-Manovich, en su libro "el software toma el mando"
+Manovich, en su libro "El software toma el mando", habla del concepto de hibridación de los medios. Este es un proceso de remediacion que combina y mezcla medios de diferente tipo, ya sean digitales o tradicionales, de forma que creen nuevas formas para que se experimenten todos los elementos en conjunto. Algunos ejemplos de esto serían: la radio, los podcast, las redes sociales, la televisión, los videojuegos o internet.
+
+
+
 
 
 ## Re-descubriendo la hibridacion: Caso 1
