@@ -43,8 +43,6 @@ Esto no sólo es importante para entender cómo siguen evolucionando los juegos 
 
 
 ## Redescubriendo la hibridación: Película interactiva Bandersnatch
-![Bandersnatch](https://github.com/Claudiacca2/PEC3_Manovich_Reloaded/blob/main/Bandersnatch)
-
 
 El cine es uno de los principales métodos de entretenimiento contemporáneo. Desde su creación  por parte de los hermanos Thomas y Lumière Edison a finales del siglo XIX, ha vivido una evolución continua, teniendo siempre en cuenta la creatividad e innovación y experimentando continuamente a nivel tecnológico, narrativa y culturalmente.
 
@@ -55,6 +53,8 @@ También ha pasado por cambios a nivel narrativo. Desde la narrativa clásica ha
 Una de estas últimas innovaciones ha sido la llegada de las películas interactivas. Obras como "**Black Mirror: Bandersnatch**" publicada en 2018 por parte de **Netflix**, una plataforma de video bajo demanda, han llevado la participación del usuario a un nivel completamente nuevo, ya que permite al espectador tomar decisiones de forma activa que afectan al desarrollo de la historia permitiendo llegar varios finales con cada nueva reproducción.
 
 ### Black Mirror: Bandersnatch
+![Bandersnatch](https://github.com/Claudiacca2/PEC3_Manovich_Reloaded/blob/main/Bandersnatch)
+
 **Black Mirror** es una serie británica creada en 2011 por Charlie Brooker difundida hasta 2014 por parte de Channel 4 y adquirida en 2016 por Netflix. El objetivo de la serie es mostrar el lado oscuro de las personas mediante el uso de la tecnología. Los diferentes episodios no tienen una continuidad argumental entre ellos, pero todos tienen en común las historias más retorcidas que muestran los peores rasgos de la humanidad, sus mayores innovaciones y mucho más ([Netflix](https://www.netflix.com/es/title/70264888#:~:text=Esta%20surrealista%20serie%20de%20antolog%C3%ADa,grandes%20innovaciones%20y%20mucho%20m%C3%A1s.&text=Ve%20todo%20lo%20que%20quieras.&text=Esta%20serie%20de%20culto%20gan%C3%B3,USS%20Callister%20y%20San%20Jun%C3%ADpero).).
 
 **Bandersnatch** es una película interactiva presentada como un episodio de Black Mirror ambientada en 1984 cuya trama es la de un programador que comienza a cuestionar la realidad mientras adapta una novela de fantasía a un videojuego ([Netflix](https://www.netflix.com/es/title/80988062). Esta, representa un avance en la narrativa del cine ya que se brinda una serie de opciones para que el usuario decida qué camino quiere que tome la historia, de esta forma, los espectadores participan activamente en la trama.
