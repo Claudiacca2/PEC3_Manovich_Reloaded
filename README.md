@@ -21,6 +21,7 @@ En este trabajo expondré como al vincular la hibridación según Manovich con l
 la hibridación de los medios, usando como ejemplos los juegos de mesa que emplean la realidad aumentada y las películas interactivas.
 
 
+
 ## Redescubriendo la hibridación: Juegos de mesa con realidad aumentada
 La realidad aumentada (RA) es una tecnología que combina un contenido creado con ordenador con el mundo real de forma superpuesta ofreciendo así nuevas e innovadoras posibilidades y haciendo la jugabilidad más inmersiva. Al combinarse esta tecnología con los juegos de mesa tradicionales, se manifiesta una hibridación que es la fusión de componentes físicos y digitales. Para esto, se utilizan dispositivos como gafas especiales, tabletas o teléfonos con aplicaciones que permiten ver elementos virtuales sobre el tablero. Esta combinación crea una experiencia de juego única que se beneficia de la hibridación propuesta por Manovich.
 
@@ -37,6 +38,7 @@ La integración de la realidad aumentada en "Catan" de Tilt Five es un ejemplo c
 La relación presentada entre la hibridación según Manovich y la adaptación de "Catán" creada por Tilt Five, demuestra cómo la evolución tecnológica está transformando la experiencia de los juegos de mesa. Esta forma en la que convergen los elementos físicos con los digitales en este ámbito no solo expande las posibilidades de juego, sino que también crea nuevas oportunidades en cuanto a la interacción social y la inmersión.
 
 Esto no sólo es importante para entender cómo siguen evolucionando los juegos de mesa, sino que también expone cómo la hibridación cultural se manifiesta en diferentes formas de entretenimiento. La continua integración de la tecnología en experiencias tradicionales como los juegos de mesa muestra un camino muy interesante hacia el futuro, donde la convivencia entre lo físico y lo digital sigue en constante evolución y enriqueciendo nuestras vivencias culturales.
+
 
 
 ## Redescubriendo la hibridación: Película interactiva Bandersnatch
@@ -57,6 +59,7 @@ La hibridación, según Manovich, describe la convergencia y mezcla de diferente
 
 ### Conclusión
 La película interactiva Bandersnatch presenta un cambio en la narrativa del cine al integrar elementos de hibridación según la visión de Lev Manovich. Esta obra desafía las convenciones tradicionales al fusionar cine y videojuegos, ofreciendo una experiencia participativa y no lineal que refleja la naturaleza fragmentada y adaptable de la cultura digital en la era contemporánea.
+
 
 
 
