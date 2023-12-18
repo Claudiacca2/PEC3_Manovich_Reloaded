@@ -42,7 +42,7 @@ Esto no sólo es importante para entender cómo siguen evolucionando los juegos 
 
 
 ## Redescubriendo la hibridación: Película interactiva Bandersnatch
-![Bandersnatch](https://hips.hearstapps.com/hmg-prod/images/black-mirror-bandersnatch-netflix-2-1546186314.jpg?crop=1xw:1xh;center,top&resize=980:*)
+![Bandersnatch]([https://hips.hearstapps.com/hmg-prod/images/black-mirror-bandersnatch-netflix-2-1546186314.jpg?crop=1xw:1xh;center,top&resize=980:*](https://github.com/Claudiacca2/PEC3_Manovich_Reloaded/commit/71aa187310891e55d45398d6f84f7f09ffdca0ef))
 
 El cine es uno de los principales métodos de entretenimiento contemporáneo. Desde su creación  por parte de los hermanos Thomas y Lumière Edison a finales del siglo XIX, ha vivido una evolución continua, teniendo siempre en cuenta la creatividad e innovación y experimentando continuamente a nivel tecnológico, narrativa y culturalmente.
 
