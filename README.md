@@ -24,7 +24,7 @@ la hibridación de los medios, usando como ejemplos los **juegos de mesa** que e
 La **realidad aumentada (RA)** es una tecnología que combina un contenido creado con ordenador con el mundo real de forma superpuesta ofreciendo así nuevas e innovadoras posibilidades y haciendo la jugabilidad más inmersiva. Al combinarse esta tecnología con los juegos de mesa tradicionales, se manifiesta una **hibridación** que es la fusión de componentes físicos y digitales. Para esto, se utilizan dispositivos como **gafas especiales**, tabletas o teléfonos con aplicaciones que permiten ver elementos virtuales sobre el tablero. Esta combinación crea una experiencia de juego única que se beneficia de la hibridación propuesta por Manovich.
 
 ### Tilt Five
-![Catán](https://github.com/Claudiacca2/PEC3_Manovich_Reloaded/commit/c0908a5d3af8ae168be41a0a433cbf9b873dc897)
+![Catán](https://github.com/Claudiacca2/PEC3_Manovich_Reloaded/blob/main/Cat%C3%A1n)
 **Tilt Five** es una empresa fundada por Jamie Gennis en 2017 que se especializa en los juegos de mesa con **RA**. Han desarrollado un tablero holográfico, unas gafas especiales que permite al que las lleva ver hologramas e imágenes en dicho tablero, un mando al que llaman “la varita”, y una serie de juegos adaptados a esta tecnología.
 
 "Los Colonos de Catán" (o simplemente "**Catán**") se creó en 1995 por parte del odontólogo alemán Klaus Teuber, es un juego de mesa donde sus participantes construyen y desarrollan asentamientos en una isla ficticia. El juego se basa en la estrategia, la negociación y la gestión de recursos, proporcionando una experiencia social, ya que permite jugar desde los niños hasta los más mayores, y competitiva. 
